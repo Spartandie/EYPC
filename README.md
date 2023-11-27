@@ -1,6 +1,5 @@
 # EYPC
-## AAAAAAAAAAAAAAAAAAAAAAAAA
-kkk
+## A game about bricks... in ASM!
 
 
 
